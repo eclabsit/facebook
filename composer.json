@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.4",
         "zendframework/zendframework": "2.*",
-        "facebook/php-graph-sdk": "5.*",
+        "facebook/graph-sdk": "5.*",
         "los/loslog": "1.0.*"
     },
     "require-dev": {
